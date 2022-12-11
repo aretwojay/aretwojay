@@ -24,7 +24,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="about.gif" align="center" style="width: 100%" />
 </div>  
 
 
