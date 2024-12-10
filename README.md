@@ -4,15 +4,7 @@
 <br/>  
 
 <table><tr><td valign="top" width="50%">
-
-- 🔭 I’m a french web developper   
-  
-
-- ❓ If you want to contact me, please feel free to send me a PM !  
-  
-
-- ⚡ Fun fact: LO-FI makes me work more efficiently  
-  
+    
 
 <div align="center">
 <a href="https://linkedin.com/in/ruben-kabanga-muya-8ba864209/" target="_blank">
